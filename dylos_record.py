@@ -1,4 +1,4 @@
-#This program collects amd stores serial data from the Dylos DC1100 Sensor
+#This program collects and stores serial data from the Dylos DC1100 Sensor
 #in CSV format until a given date of the month is reached.
 #For use on a Raspberry Pi.
 
